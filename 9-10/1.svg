@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Шар_1" data-name="Шар 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 986 402">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1923d8;
+      }
+
+      .cls-2 {
+        opacity: .76;
+      }
+    </style>
+  </defs>
+  <g class="cls-2">
+    <rect class="cls-1" x="3.5" y="21.5" width="110" height="119"/>
+    <path d="m110,25v112H7V25h103m7-7H0v126h117V18h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="189.5" y="3.5" width="124" height="69"/>
+    <path d="m310,7v62h-117V7h117m7-7h-131v76h131V0h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="335.5" y="21.5" width="357" height="234"/>
+    <path d="m689,25v227h-350V25h350m7-7h-364v241h364V18h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="500.5" y="54.5" width="298" height="114"/>
+    <path d="m795,58v107h-291V58h291m7-7h-305v121h305V51h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="569.5" y="121.5" width="176" height="96"/>
+    <path d="m742,125v89h-169v-89h169m7-7h-183v103h183v-103h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="712.5" y="141.5" width="151" height="152"/>
+    <path d="m860,145v145h-144v-145h144m7-7h-158v159h158v-159h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="840.5" y="54.5" width="142" height="132"/>
+    <path d="m979,58v125h-135V58h135m7-7h-149v139h149V51h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="62.5" y="382.5" width="33" height="16"/>
+    <path d="m92,386v9h-26v-9h26m7-7h-40v23h40v-23h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="153.5" y="341.5" width="48" height="28"/>
+    <path d="m198,345v21h-41v-21h41m7-7h-55v35h55v-35h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="246.5" y="318.5" width="30" height="16"/>
+    <path d="m273,322v9h-23v-9h23m7-7h-37v23h37v-23h0Z"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-1" x="320.5" y="300.5" width="20" height="11"/>
+    <path d="m337,304v4h-13v-4h13m7-7h-27v18h27v-18h0Z"/>
+  </g>
+</svg>
